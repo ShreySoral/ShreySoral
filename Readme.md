@@ -5,13 +5,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[a 3D Game](https://shreysoral.itch.io/cube-runner)**
-
 - 🌱 I’m currently learning **Game Development.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **shreysoral@gmail.com**
+- 📫 How to reach out to me **shreysoral@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
