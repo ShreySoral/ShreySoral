@@ -5,13 +5,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Web Development.**
+- 🌱 I’m currently learning **Ethical Hacking**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach out to me **shreysoral@gmail.com**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
@@ -19,7 +17,6 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://img.icons8.com/color/48/000000/javascript--v2.png/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/></a>
 </p>
 <br/>
 
